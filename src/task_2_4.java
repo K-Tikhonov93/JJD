@@ -1,4 +1,4 @@
-public class second_homework4 {
+public class task_2_4 {
     public static void main(String[] args) {
     int a = (int) (Math.random()*150+5);
         if (a<=25 || a>=100){

@@ -1,6 +1,6 @@
 import java.util.Random;
 
-public class second_homework7 {
+public class task_2_7 {
     public static void main(String[] args) {
         Random rnd = new Random();
         int a = rnd.nextInt(28800), b = a / 60 / 60;

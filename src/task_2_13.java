@@ -1,5 +1,5 @@
 import  java.util.*;
-public class second_homework13{
+public class task_2_13 {
     public static void main(String[] args){
         int a;
         Scanner scn=new Scanner(System.in);

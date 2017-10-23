@@ -1,4 +1,4 @@
-public class second_homework15{
+public class task_2_15 {
     public static void main(String[] args){
         int a=1,b=1,c=0;
         System.out.print(a+" "+b+" ");

@@ -1,4 +1,4 @@
-public class s_h19 {
+public class task_2_19 {
     public static void main(String[] args){
         int b=0;
         for(int h=1;h<=24;h++){

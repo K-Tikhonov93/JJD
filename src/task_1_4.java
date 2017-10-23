@@ -1,4 +1,4 @@
-public class first_homework4 {
+public class task_1_4 {
     public static void main(String[] args) {
         int a = 284;
         int b = a%10;

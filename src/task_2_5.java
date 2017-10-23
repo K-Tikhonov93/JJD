@@ -1,4 +1,4 @@
-public class second_homework5 {
+public class task_2_5 {
     public static void main(String[] args) {
         int a = (int) (Math.random()*1000);
         System.out.println("рандомное число "+a);

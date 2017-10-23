@@ -1,4 +1,4 @@
-public class s_h18 {
+public class task_2_18 {
     public static void main(String[] args){
         int b=0;
         for(int i=2;i<=50000;i++){

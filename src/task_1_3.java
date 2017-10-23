@@ -1,4 +1,4 @@
-public class first_homework3 {
+public class task_1_3 {
     public static void main(String[] args) {
         double a = 99.99;
         double b = 99.11;

@@ -1,4 +1,4 @@
-public class second_homework6 {
+public class task_2_6 {
     public static void main(String[] args){
         int a=7,b=0,c=-5;
         System.out.println("Числа в переменных a, b и c: "+a+" "+b+" "+c);
